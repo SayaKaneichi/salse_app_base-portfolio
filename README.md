@@ -23,9 +23,15 @@
 - 担当ページの動作デモ動画（1分程度） → [https://gyazo.com/bafad7d54f9e34f17fed142c16b44b73]  
 
 ## 📂 コード構成
+フロントエンド
 /pages
  /category-manage
   /index.vue # 通知管理ページ（担当箇所）
+バックエンド
+/functions
+ /handlers
+  /category.js
+
 
 ## 🚀 実行方法
 このリポジトリはポートフォリオ用に抜粋したコードのため、動作環境は再現していません。  
